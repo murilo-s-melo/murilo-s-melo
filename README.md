@@ -1,1 +1,1 @@
-Olá, meu nome é Murilo, estou cursando Ciência da Computação na Universidade Estadual do Ceará e uso o Github como uma ferramente de aprendizado de programação e para construção de software em conjunto com meus colegas de faculdade.
+Olá, meu nome é Murilo, estou cursando Ciência da Computação na Universidade Estadual do Ceará e uso o Github como uma ferramente de aprendizado de programação e construção de software em conjunto com meus colegas de faculdade.
